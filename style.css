@@ -18,6 +18,12 @@ h1 {
 
   p {
     font-family:cursive ;
+  }
+  
+  li {
+    font-family:monospace ;
+  }
+  
   img.centro{
     display: block; 
     margin: auto;
