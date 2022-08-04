@@ -1,13 +1,12 @@
 body {
-    background-color:#FF7355 ;
+    background-image: linear-gradient(to right, #1099BB,#f3aacb);
 }
-h1{
+
+h1 {
+    color: red;
+    border-style: solid;
+    border-width: 2px;
+    background-color: blue;
+    border-color: black;
     text-align: center;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
-    border: 3px  solid;
-    border-radius: 30px;
-    box-shadow: 10px 15px 25px 1px;
-}
-p{
-    font-family: 'Courier new'
-}
+  }
