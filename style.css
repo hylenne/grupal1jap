@@ -10,8 +10,27 @@ h1 {
     border-color: black;
     text-align: center;
   }
+
+
+  h2{
+color:rgb(118, 33, 228);
+text-align: center;
+text-decoration:underline;
+ }
+
+
   img.centro{
     display: block; 
     margin: auto;
+  } 
 
-  }
+  img
+    {
+     display: block;
+     margin: auto;
+     }
+     
+     img.wiki{
+        display:inline-flex 
+      }
+   
