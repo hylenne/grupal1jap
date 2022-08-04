@@ -10,3 +10,8 @@ h1 {
     border-color: black;
     text-align: center;
   }
+
+  h2 {
+    text-decoration: underline overline ;
+    color:darkred
+  }
