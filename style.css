@@ -27,5 +27,15 @@ h1 {
   img.centro{
     display: block; 
     margin: auto;
+  } 
 
-  }
+  img
+    {
+     display: block;
+     margin: auto;
+     }
+     
+     img.wiki{
+        display:inline-flex 
+      }
+   
