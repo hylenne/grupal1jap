@@ -1,41 +1,72 @@
 body {
     background-image: linear-gradient(to right, #1099BB,#f3aacb);
 }
-
+.titlebox{ 
+    font-family:; 
+    color: #000000; 
+    font-size: 18px; 
+    font-weight: 400; 
+    text-align: center; 
+    background: #f5f065; 
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid #f979e1;
+}
 h1 {
-    color: red;
-    border-style: solid;
-    border-width: 2px;
-    background-color: blue;
-    border-color: black;
-    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:Tahoma;
+    text-align:center;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-content: center;
   }
 
   h2 {
     text-decoration: underline overline ;
-    color:darkred
+    color:rgb(255, 255, 255);
+    margin-left: 20%; 
+    margin-right: 20%;
+    text-align:center;
+    font-family: Tahoma;
+    letter-spacing: 0.5cm;
+    
   }
 
   p {
-    font-family:cursive ;
+    font-family:Verdana;
+    color: #f5f065;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    font-size: xx-large;
   }
   
   li {
     font-family:monospace ;
+    color: #f5f065;
+    font-size: xx-large;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
   }
   
-  img.centro{
+img.centro{
     display: block; 
     margin: auto;
   } 
 
-  img
+img
     {
      display: block;
      margin: auto;
      }
      
-     img.wiki{
+img.wiki{
         display:inline-flex 
       }
    
+
